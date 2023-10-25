@@ -2,7 +2,7 @@
 
 ## 概要
 このプロジェクトは、IoT開発演習にて作成したものです。
-詳細は[PDFファイル](https://drive.google.com/drive/folders/1zFrVAh4_Rf_vS8YOQ07-_rzCj4NKhk4b)を参照してください。
+詳細は[PDFファイル](https://drive.google.com/file/d/1i062EL293HehEl1xA5qx7Ru9lPeKsVjT/view?usp=sharing)を参照してください。
 
 ## 使用デバイス
 - Arduino（ESP32 Dev Module）
